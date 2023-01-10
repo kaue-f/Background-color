@@ -1,0 +1,25 @@
+div {
+    position: relative;
+    margin-left: 40%;
+    margin-top: 500px;
+    padding: 20px;
+    border: 2px solid rgb(49, 47, 47);
+    background-color: rgb(49, 47, 47);
+    border-radius: 15px;
+    width: 450px;
+    text-align: center;
+}
+
+h1 {
+    font-style:italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size:xx-large;   
+}
+
+input {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    border-radius: 10px;
+    border: white;
+}
